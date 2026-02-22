@@ -556,10 +556,10 @@ There are two ways of displaying videos: within HTML5 `<video>` tags and within 
 To display a youtube video go to <http://youtube.com> open a video you like and press the share button, then click the `Embend` button and in the next window copy the code and paste it anywhere in the page you want to display like bellow:
 
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmN1rPVPyF8?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o8NPllzkFhE?si=ogWir5LzSfuBm-Z1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmN1rPVPyF8?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o8NPllzkFhE?si=ogWir5LzSfuBm-Z1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### Display local videos (HTML5)
