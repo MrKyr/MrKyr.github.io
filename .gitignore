@@ -15,3 +15,7 @@ Gemfile.bak
 
 # Blog index
 index.md
+
+# bundle local
+.bundle/
+vendor/
