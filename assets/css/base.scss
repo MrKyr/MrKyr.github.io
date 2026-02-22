@@ -3,22 +3,21 @@
 
 @charset "utf-8";
 
-@import
-  "reset",
-  "container",
-  "header",
-  "float",
-  "footer",
-  "page",
-  "post-list",
-  "post",
-  "category",
-  "highlighter",
-  "mobile",
-  "printer",
-  "task-list",
-  "mermaid",
-  "highlighter-native",
-  "corali"
-  // "highlighter-monokai"
+@use "reset";
+@use "container";
+@use "header";
+@use "float";
+@use "footer";
+@use "page";
+@use "post-list";
+@use "post";
+@use "category";
+@use "highlighter";
+@use "mobile";
+@use "printer";
+@use "task-list";
+@use "mermaid";
+@use "highlighter-native";
+@use "corali";
+// "highlighter-monokai"
 ;
