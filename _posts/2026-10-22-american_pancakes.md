@@ -1,7 +1,7 @@
 ---
 layout: post
 author: kyr
-date: 2026-10-22 15:13:04 +0200
+date: 2026-10-22
 title: American Pancakes
 image: pancakes.jpg
 description:
